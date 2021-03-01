@@ -1,0 +1,8 @@
+uuid: 79c4aae3-7f1b-429c-9f01-62067086dc68
+langcode: en
+status: true
+dependencies: {  }
+name: 'Document category'
+vid: document_category
+description: ''
+weight: 0
