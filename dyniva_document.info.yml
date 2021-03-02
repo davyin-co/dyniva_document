@@ -15,5 +15,6 @@ dependencies:
   - content_translation
   - language
   - media_library
+  - lightning_media_document
   - text
   - user
