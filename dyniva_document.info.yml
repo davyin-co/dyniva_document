@@ -14,5 +14,6 @@ dependencies:
   - taxonomy
   - content_translation
   - language
+  - media_library
   - text
   - user
