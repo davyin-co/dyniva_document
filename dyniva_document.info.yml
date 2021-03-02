@@ -12,5 +12,7 @@ dependencies:
   - node
   - path
   - taxonomy
+  - content_translation
+  - language
   - text
   - user
