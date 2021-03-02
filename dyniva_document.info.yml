@@ -5,7 +5,6 @@ package: Dyniva
 core: 8.x
 dependencies:
   - datetime_range
-  - entity_browser
   - media_entity_download
   - field
   - field_group
