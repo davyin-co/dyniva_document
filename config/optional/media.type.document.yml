@@ -14,4 +14,3 @@ source_configuration:
 field_map:
   mime: field_mime_type
   size: field_document_size
-
